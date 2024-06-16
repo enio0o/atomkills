@@ -26,6 +26,8 @@ https://www.8host.com/blog/zashhita-mysql-i-mariadb-na-servere-linux/?ysclid=lxh
 
 https://docs.google.com/document/d/16tyFVnW12N4lgAD_HqpVnvCHruAKe-z2Nl9J_FsjnUg/edit
 https://docs.google.com/document/d/18DFR1fKpMqrrbg6CLw-FkEtviXAWwQd5yZ1yUEIZffw/edit
-
+1. шлюзы - почтарь чекннуть - локальный репо починить 
+/etc/apt/sources.list.d/repos.list:
+deb https://security.debian.org/debian-security/ buster/updates main contrib non-free
 
 
