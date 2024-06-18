@@ -34,3 +34,10 @@ deb https://security.debian.org/debian-security/ buster/updates main contrib non
 https://cybersecuritynews.com/penetration-testing-tools/
 https://github.com/am0nt31r0/Penetration-Testing-Mind-Map/blob/master/pentest_methodology_and_tools.png
 https://habr.com/ru/companies/cloud4y/articles/651831/
+
+
+
+https://www.hackthebox.com/blog/memory-forensics-volatility-write-up#mcetoc_1gr5nhntg9ds
+https://blog.onfvp.com/post/volatility-cheatsheet/
+https://cheatography.com/bpdzone/cheat-sheets/volatility-3-0-windows/
+https://github.com/cyb3rmik3/DFIR-Notes?tab=readme-ov-file
